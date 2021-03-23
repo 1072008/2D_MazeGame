@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{4745A9C0-E681-A22F-6EA6-7BE7D75511C1}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Guy.cs">
+    <Files>
+      <File FileName="Assets/Player.cs" Line="36" Column="30" />
+      <File FileName="Assets/Coin.cs" />
+      <File FileName="Assets/Blood.cs" />
+      <File FileName="Assets/Bullet.cs" />
+      <File FileName="Assets/End.cs" />
+      <File FileName="Assets/Bad.cs" />
+      <File FileName="Assets/Guy.cs" Line="50" Column="50" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Final_Project" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Guy.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="8683a16c-e26b-4829-b132-e1a40d44af18" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
